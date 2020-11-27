@@ -4,4 +4,4 @@ Building this beautiful Restaurant App in Xamarin Forms and spicing it up with s
 You can watch the video here 👉 https://youtu.be/6gb_iRj_BYU
 
 
-![alt text](https://github.com/devcrux/Menu-Transition-in-Xamarin-Forms/blob/master/MenuTransition-Ads.gif) 
+![alt text](https://github.com/devcrux/Beautiful-Restaurant-App-in-Xamarin-Forms/blob/master/restaurant.gif) 
